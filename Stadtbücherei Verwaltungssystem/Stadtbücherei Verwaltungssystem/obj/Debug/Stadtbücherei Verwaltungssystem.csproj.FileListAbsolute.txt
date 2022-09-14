@@ -1,0 +1,7 @@
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\bin\Debug\Stadtbücherei Verwaltungssystem.exe.config
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\bin\Debug\Stadtbücherei Verwaltungssystem.exe
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\bin\Debug\Stadtbücherei Verwaltungssystem.pdb
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\obj\Debug\Stadtbücherei Verwaltungssystem.csproj.AssemblyReference.cache
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\obj\Debug\Stadtbücherei Verwaltungssystem.csproj.CoreCompileInputs.cache
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\obj\Debug\Stadtbücherei Verwaltungssystem.exe
+C:\Users\HAydin\source\repos\Stadtbücherei Verwaltungssystem\Stadtbücherei Verwaltungssystem\obj\Debug\Stadtbücherei Verwaltungssystem.pdb

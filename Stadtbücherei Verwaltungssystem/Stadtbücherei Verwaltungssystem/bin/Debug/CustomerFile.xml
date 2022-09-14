@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<Organization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Bücherei">
+  <ID>123</ID>
+  <Customers>
+    <Customer Name="Thomas">
+      <MediaListLend />
+      <Reference>
+      </Reference>
+      <Street>Lilienstraße</Street>
+      <HouseNumber>13</HouseNumber>
+      <ZipCode>65474</ZipCode>
+      <CustomerID>6771564342</CustomerID>
+      <BookCardID>7326865437</BookCardID>
+      <CardExpiryDate>2024-09-13T14:30:42.4393867+02:00</CardExpiryDate>
+    </Customer>
+    <Customer Name="Steve">
+      <MediaListLend />
+      <Reference>
+      </Reference>
+      <Street>Eugen-Bolz Straße</Street>
+      <HouseNumber>23</HouseNumber>
+      <ZipCode>12312</ZipCode>
+      <CustomerID>3682622168</CustomerID>
+      <BookCardID>7752424154</BookCardID>
+      <CardExpiryDate>2024-09-13T14:31:00.0948856+02:00</CardExpiryDate>
+    </Customer>
+  </Customers>
+  <MediaList>
+<Media xsi:type="MusicCD">
+        <Name>The Chronic</Name>
+        <LocationPlace>302</LocationPlace>
+        <ISBNNumber>24863134141</ISBNNumber>
+        <Director>Dr Dre</Director>
+        <Publisher>Death Row Records</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:02:26.3458381+02:00</PrintDate>
+        <LendExpiryDate>2022-10-12T15:13:04.1817672+02:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Überfällig</OverdueLend>
+      </Media>
+      <Media xsi:type="AudioBook">
+        <Name>Hörspieldrei</Name>
+        <LocationPlace>Lagerregal 414</LocationPlace>
+        <ISBNNumber>71186637672</ISBNNumber>
+        <Author>Usman</Author>
+        <Publisher>Sony</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-07T10:18:15.3467666+02:00</PrintDate>
+        <LendExpiryDate>2022-09-12T14:57:04.1943814+02:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="BlurayDisc">
+        <Name>Avengers</Name>
+        <LocationPlace>Lagerregal 413</LocationPlace>
+        <ISBNNumber>82353775116</ISBNNumber>
+        <Director>Tom</Director>
+        <Publisher>Sony</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-07T10:18:42.7911817+02:00</PrintDate>
+        <LendExpiryDate>2022-10-07T13:43:01.2229227+02:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Überfällig</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Fifa 2022</Name>
+        <LocationPlace>210</LocationPlace>
+        <ISBNNumber>83365661553</ISBNNumber>
+        <Publisher>Müller</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T09:57:54.2606364+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="Book">
+        <Name>C# Für Anfänger</Name>
+        <LocationPlace>214</LocationPlace>
+        <ISBNNumber>27142131675</ISBNNumber>
+        <Author>Microsoft</Author>
+        <Publisher>Microsoft</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T09:59:01.9144879+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Need For Speed Underground</Name>
+        <LocationPlace>320</LocationPlace>
+        <ISBNNumber>15158824873</ISBNNumber>
+        <Publisher>EA</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:04:50.6643736+02:00</PrintDate>
+        <LendExpiryDate>2022-10-22T10:53:58.7198749+02:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Überfällig</OverdueLend>
+      </Media>
+      <Media xsi:type="Book">
+        <Name>SQL Database</Name>
+        <LocationPlace>241</LocationPlace>
+        <ISBNNumber>73315467782</ISBNNumber>
+        <Author>SQL</Author>
+        <Publisher>Linux</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-10-08T10:04:50.6643736+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="BlurayDisc">
+        <Name>Gladiator</Name>
+        <LocationPlace>400</LocationPlace>
+        <ISBNNumber>13815681811</ISBNNumber>
+        <Director>Bill Clinton</Director>
+        <Publisher>Sony</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:00:17.049221+02:00</PrintDate>
+        <LendExpiryDate>2022-10-12T15:13:04.1817672+02:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="DVD">
+        <Name>Blow</Name>
+        <LocationPlace>340</LocationPlace>
+        <ISBNNumber>78217676166</ISBNNumber>
+        <Director>Frank Hilton</Director>
+        <Publisher>Continental</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:01:26.5955138+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Fallout 3</Name>
+        <LocationPlace>492</LocationPlace>
+        <ISBNNumber>85751523737</ISBNNumber>
+        <Publisher>Bethesda</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:01:53.9613771+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="EBook">
+        <Name>Kickers</Name>
+        <LocationPlace>320</LocationPlace>
+        <ISBNNumber>75364433273</ISBNNumber>
+        <Author>Dwayne Houston</Author>
+        <Publisher>Cornlesen</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:03:55.057536+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Skyrim</Name>
+        <LocationPlace>320</LocationPlace>
+        <ISBNNumber>56717346835</ISBNNumber>
+        <Publisher>Bethesda</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:04:20.7837639+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="MusicCD">
+        <Name>New York</Name>
+        <LocationPlace>392</LocationPlace>
+        <ISBNNumber>31861172156</ISBNNumber>
+        <Director>Frank Sinatra</Director>
+        <Publisher>Novum</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:05:55.5395046+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Tekken 3</Name>
+        <LocationPlace>342</LocationPlace>
+        <ISBNNumber>54271761388</ISBNNumber>
+        <Publisher>Bandai Naimco</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:08:31.9181236+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="Book">
+        <Name>Solar Eclipse</Name>
+        <LocationPlace>342</LocationPlace>
+        <ISBNNumber>63446827461</ISBNNumber>
+        <Author>Ruslan Kraus</Author>
+        <Publisher>Zyzz</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:09:48.9083652+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="Book">
+        <Name>Kings</Name>
+        <LocationPlace>29</LocationPlace>
+        <ISBNNumber>66653211331</ISBNNumber>
+        <Author>Chris Stein</Author>
+        <Publisher>Cornlesen</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:12:40.3073976+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="MusicCD">
+        <Name>Bill Withers Vol. 2</Name>
+        <LocationPlace>342</LocationPlace>
+        <ISBNNumber>52278578112</ISBNNumber>
+        <Publisher>Bill Withers</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:24:37.1143626+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="Book">
+        <Name>San Leandro</Name>
+        <LocationPlace>432</LocationPlace>
+        <ISBNNumber>57635648311</ISBNNumber>
+        <Author>Jeff Goldenberg</Author>
+        <Publisher>Tresure</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:25:43.5832284+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="BlurayDisc">
+        <Name>Kid Rock</Name>
+        <LocationPlace>21</LocationPlace>
+        <ISBNNumber>27826612116</ISBNNumber>
+        <Director>Jeff Bezoz</Director>
+        <Publisher>Amazon</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:26:49.9516367+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Age of Empire</Name>
+        <LocationPlace>32</LocationPlace>
+        <ISBNNumber>85344481122</ISBNNumber>
+        <Publisher>Pubea</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:27:40.372646+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="VideoGame">
+        <Name>Arma 2</Name>
+        <LocationPlace>32</LocationPlace>
+        <ISBNNumber>63467756552</ISBNNumber>
+        <Publisher>Bohemia</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:28:05.9378397+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+      <Media xsi:type="AudioBook">
+        <Name>Benjam</Name>
+        <LocationPlace>32</LocationPlace>
+        <ISBNNumber>42167861624</ISBNNumber>
+        <Author>Kurt Lee</Author>
+        <Publisher>Ophio</Publisher>
+        <CustomerReference>Available</CustomerReference>
+        <PrintDate>2022-09-08T10:28:42.364878+02:00</PrintDate>
+        <LendExpiryDate>0001-01-01T00:00:00</LendExpiryDate>
+        <ExpandCounter>0</ExpandCounter>
+        <OverdueLend>Latent</OverdueLend>
+      </Media>
+  </MediaList>
+</Organization>
